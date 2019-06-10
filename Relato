@@ -1,0 +1,9 @@
+Serviço IPTV Blade UHD não funciona em rede WeBBY {
+
+Conexão UTP.
+
+Testes realizados via AnyDesk: 
+UPnP ativo, redirecionado portas padrão de streaming, habilitado DMZ para aparelho IPTV, atribúido IP Fixo, desabitiliado firewall do roteador, sem sucesso.
+Feito contato com provedor do serviço da cliente, o mesmo não soube informar quais as portas necessárias para o uso do serviço, também não soube informar com quem conseguir essa informação.
+Cliente confirmou o funcionamento do serviço pelo celular com conexão da rede móvel, funcionou normalmente.
+}
